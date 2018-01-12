@@ -1,3 +1,29 @@
+/*creates a custome design for title*/
+Title {
+	text-align:center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 120px;
+	color: Black;
+	border: 2px solid 00C8C8;
+    	border-radius: 5px;
+/*creates a custom design for h1*/
+h1 {	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 40px;
+	color: Black;
+	width: 50%;
+	height: 30px;	
+}
+/*creates a custom design for h2*/
+h2 {
+	font-family: Monospace;
+	font-size: 20px;
+}
+/*creates a custom design for p1*/
+p {
+	font-family: Monospace;
+	font-size: 20px
+}
 /*Creates a custome design for the unordered list*/
 ul {
 	list-style-type: none;
@@ -25,22 +51,4 @@ li a:hover {
 /*changes the colour of the current block*/
 .active {
     background-color: #00C8C8;
-}
-/*creates a custom design for h1*/
-h1 {	
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 40px;
-	color: Black;
-	width: 50%;
-	height: 30px;	
-}
-/*creates a custom design for h2*/
-h2 {
-	font-family: Monospace;
-	font-size: 20px;
-}
-/*creates a custom design for p1*/
-p {
-	font-family: Monospace;
-	font-size: 20px
 }
