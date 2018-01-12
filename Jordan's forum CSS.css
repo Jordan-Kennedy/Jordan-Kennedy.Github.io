@@ -1,0 +1,46 @@
+/*Creates a custome design for the unordered list*/
+ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+/*makes the list float to the left*/
+li {
+    float: left;
+}
+/*Creates a custom design for the ordered list*/
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+/*changes the colour of the block when hovered over*/
+li a:hover {
+    background-color: #111;
+}
+/*changes the colour of the current block*/
+.active {
+    background-color: #00C8C8;
+}
+/*creates a custom design for h1*/
+h1 {	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 40px;
+	color: Black;
+	width: 50%;
+	height: 30px;	
+}
+/*creates a custom design for h2*/
+h2 {
+	font-family: Monospace;
+	font-size: 20px;
+}
+/*creates a custom design for p1*/
+p {
+	font-family: Monospace;
+	font-size: 20px
+}
