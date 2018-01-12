@@ -1,6 +1,5 @@
 /*creates a custome design for title*/
 title {
-	text-align:center;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 120px;
 	color: Black;
@@ -9,6 +8,7 @@ title {
 }
 /*creates a custom design for h1*/
 h1 {	
+	text-align: center;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 40px;
 	color: Black;
