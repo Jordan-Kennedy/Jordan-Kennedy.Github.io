@@ -10,7 +10,7 @@
 	</style>
 </head>
   <body>
-	<h1>Main Screen</h1>
+	<h1>Main Screen - Test?</h1>
 	  <?php include("includes/navigation.php");?>
   </body>
 </php>
