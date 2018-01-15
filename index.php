@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE php>
+<php>
 <head>
 	<!-- <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> -->
 	<link href="Jordan's forum CSS.css" rel="stylesheet">
@@ -15,4 +15,4 @@
 		<?php include("includes/navigation.php");?>
 	</ul>
   </body>
-</html>
+</php>
