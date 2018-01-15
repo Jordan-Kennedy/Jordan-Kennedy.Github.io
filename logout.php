@@ -11,9 +11,7 @@
 </head>
   <body>
 	<h1>Log Out</h1>
-	<ul>
-		<?php include("includes/navigation.php");?>
-	</ul>
+	<?php include("includes/navigation.php");?>
 	<p>Coming soon</p>
   </body>
 </php>
