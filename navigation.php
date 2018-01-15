@@ -10,5 +10,6 @@
 	    <li><a href="contact.php">Contact</a></li>
 	    <li><a href="about.php">About</a></li>
 	    <li><a href="help.php">Help</a></li>
+	    <li><a href="logout.php">Logout</a></a>
 	  </ul>
   </php>
