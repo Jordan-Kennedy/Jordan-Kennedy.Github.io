@@ -10,8 +10,7 @@
 </head>
   <body>
 	<h1>Threads</h1>
-		<?php include("includes/navigation.php");?>
-	</ul>
+	<?php include("includes/navigation.php");?>
 	<p>Coming soon</p>
   </body>
-</html>
+</php>
