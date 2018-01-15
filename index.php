@@ -6,19 +6,13 @@
 	<title>Jordan's forum</title>
 	<meta charset="UTF-8">
 	<style>
-ul {}
-</style>
+		ul {}
+	</style>
 </head>
   <body>
 	<h1>Main Screen</h1>
 	<ul>
-		<li><a class="active" href="index.html">Home</a></li>
-		<li><a href="threads.html">Threads</a></li>
-		<li><a href="updates.html">Updates</a></li>
-		<li><a href="contact.html">Contact</a></li>
-		<li><a href="about.html">About</a></li>
-		<li><a href="help.html">Help</a></li>
-		<li><a href="logout.html">Logout</a></li>
+		<?php include("includes/navigation.php");?>
 	</ul>
   </body>
 </html>
