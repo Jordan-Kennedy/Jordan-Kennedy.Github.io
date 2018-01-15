@@ -12,13 +12,13 @@ ul {}
   <body>
 	<h1>Main Screen</h1>
 	<ul>
-		<li><a class="active" href="Home.html">Home</a></li>
-		<li><a href="Forums.html">Forums</a></li>
-		<li><a href="Updates.html">Updates</a></li>
-		<li><a href="Contact.html">Contact</a></li>
-		<li><a href="About.html">About</a></li>
-		<li><a href="Help.html">Help</a></li>
-		<li><a href="LogOut.html">Logout</a></li>
+		<li><a class="active" href="index.html">Home</a></li>
+		<li><a href="threads.html">Threads</a></li>
+		<li><a href="updates.html">Updates</a></li>
+		<li><a href="contact.html">Contact</a></li>
+		<li><a href="about.html">About</a></li>
+		<li><a href="help.html">Help</a></li>
+		<li><a href="logout.html">Logout</a></li>
 	</ul>
   </body>
 </html>
