@@ -11,8 +11,6 @@
 </head>
   <body>
 	<h1>Main Screen</h1>
-	<ul>
-		<?php include("includes/navigation.php");?>
-	</ul>
+	  <?php include("includes/navigation.php");?>
   </body>
 </php>
